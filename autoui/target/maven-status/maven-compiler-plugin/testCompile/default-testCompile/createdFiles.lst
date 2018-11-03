@@ -1,0 +1,7 @@
+com/quickfuseapps/autoui/pagefactory/Start_POF.class
+com/quickfuseapps/autoui/pagefactory/LoginPage_POF.class
+com/quickfuseapps/autoui/pagefactory/SendAnSMS_POF.class
+com/quickfuseapps/autoui/pagefactory/HandUpExit_POF.class
+com/quickfuseapps/autoui/pagefactory/CreateAppPage_POF.class
+com/quickfuseapps/autoui/testcases/CreateAppTest.class
+com/quickfuseapps/autoui/pagefactory/SendAnEmail_POF.class

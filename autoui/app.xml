@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="App">
+	<test name="Create app">
+		<classes>
+			<class name="com.quickfuseapps.autoui.testcases.CreateAppTest" />
+		</classes>
+	</test>
+</suite>

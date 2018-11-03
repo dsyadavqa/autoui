@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="App" duration-ms="28669" started-at="2018-11-03T11:57:48Z" finished-at="2018-11-03T11:58:16Z">
+    <groups>
+    </groups>
+    <test name="Create app" duration-ms="28669" started-at="2018-11-03T11:57:48Z" finished-at="2018-11-03T11:58:16Z">
+      <class name="com.quickfuseapps.autoui.testcases.CreateAppTest">
+        <test-method status="PASS" signature="launchBrowserBeforeMethod(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.quickfuseapps.autoui.testcases.CreateAppTest@380fb434]" name="launchBrowserBeforeMethod" is-config="true" duration-ms="8878" started-at="2018-11-03T17:27:48Z" finished-at="2018-11-03T17:27:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FF]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mac]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://quickfuseapps.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserBeforeMethod -->
+        <test-method status="PASS" signature="createAppTest()[pri:0, instance:com.quickfuseapps.autoui.testcases.CreateAppTest@380fb434]" name="createAppTest" duration-ms="18805" started-at="2018-11-03T17:27:56Z" finished-at="2018-11-03T17:28:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAppTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.quickfuseapps.autoui.testcases.CreateAppTest@380fb434]" name="afterMethod" is-config="true" duration-ms="951" started-at="2018-11-03T17:28:15Z" finished-at="2018-11-03T17:28:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.quickfuseapps.autoui.testcases.CreateAppTest -->
+    </test> <!-- Create app -->
+  </suite> <!-- App -->
+</testng-results>
